@@ -30,6 +30,9 @@ return [
                 ],
             ],
         ],
+        'stringNew' => [
+            'class' => 'frontend\components\StringNew',
+        ],
     ],
     'params' => $params,
 ];
